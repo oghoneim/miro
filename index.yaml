@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  helm-toolkit:
+  - apiVersion: v1
+    appVersion: v1.0.0
+    created: "2022-10-22T14:11:34.829447679-07:00"
+    description: OpenStack-Helm Helm-Toolkit
+    digest: 15cb60b221bf8404de916f3851d5e5b807f7add4b09dcdcb82a02c66f6c724a0
+    home: https://docs.openstack.org/openstack-helm
+    icon: https://www.openstack.org/themes/openstack/images/project-mascots/OpenStack-Helm/OpenStack_Project_OpenStackHelm_vertical.png
+    maintainers:
+    - name: OpenStack-Helm Authors
+    name: helm-toolkit
+    sources:
+    - https://opendev.org/openstack/openstack-helm-infra
+    - https://opendev.org/openstack/openstack-helm
+    urls:
+    - helm-toolkit-0.2.49.tgz
+    version: 0.2.49
+generated: "2022-10-22T14:11:34.823944273-07:00"
