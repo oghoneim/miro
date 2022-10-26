@@ -17,4 +17,13 @@ entries:
     urls:
     - helm-toolkit-0.2.49.tgz
     version: 0.2.49
+  helm-toolkit-contrail:
+  - apiVersion: v1
+    created: "2022-10-25T20:59:22.840587342-07:00"
+    description: OpenStack-Helm Helm-Toolkit for contrail
+    digest: c676a03575d84937179d35c820512441a941158ba0f565319909b9e225fc132b
+    name: helm-toolkit-contrail
+    urls:
+    - helm-toolkit-contrail-0.1.0.tgz
+    version: 0.1.0 
 generated: "2022-10-22T14:11:34.823944273-07:00"
